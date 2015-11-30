@@ -1,0 +1,67 @@
+C:\Users\dmitryso\Desktop\Mesh\Projects\Kinect\KinectMagic\AppleKinect\AppleKinect\bin\Debug\AppleKinect.exe.config
+C:\Users\dmitryso\Desktop\Mesh\Projects\Kinect\KinectMagic\AppleKinect\AppleKinect\obj\Debug\AppleKinect.csprojResolveAssemblyReference.cache
+C:\Users\dmitryso\Desktop\Mesh\Projects\Kinect\KinectMagic\AppleKinect\AppleKinect\obj\Debug\MainWindow.baml
+C:\Users\dmitryso\Desktop\Mesh\Projects\Kinect\KinectMagic\AppleKinect\AppleKinect\obj\Debug\MainWindow.g.cs
+C:\Users\dmitryso\Desktop\Mesh\Projects\Kinect\KinectMagic\AppleKinect\AppleKinect\obj\Debug\App.g.cs
+C:\Users\dmitryso\Desktop\Mesh\Projects\Kinect\KinectMagic\AppleKinect\AppleKinect\obj\Debug\AppleKinect_MarkupCompile.cache
+C:\Users\dmitryso\Desktop\Mesh\Projects\Kinect\KinectMagic\AppleKinect\AppleKinect\obj\Debug\AppleKinect.g.resources
+C:\Users\dmitryso\Desktop\Mesh\Projects\Kinect\KinectMagic\AppleKinect\AppleKinect\obj\Debug\AppleKinect.Properties.Resources.resources
+C:\Users\dmitryso\Desktop\Mesh\Projects\Kinect\KinectMagic\AppleKinect\AppleKinect\obj\Debug\AppleKinect.csproj.GenerateResource.Cache
+C:\Users\dmitryso\Desktop\Mesh\Projects\Kinect\KinectMagic\AppleKinect\AppleKinect\bin\Debug\AppleKinect.exe
+C:\Users\dmitryso\Desktop\Mesh\Projects\Kinect\KinectMagic\AppleKinect\AppleKinect\bin\Debug\AppleKinect.pdb
+C:\Users\dmitryso\Desktop\Mesh\Projects\Kinect\KinectMagic\AppleKinect\AppleKinect\obj\Debug\AppleKinect.exe
+C:\Users\dmitryso\Desktop\Mesh\Projects\Kinect\KinectMagic\AppleKinect\AppleKinect\obj\Debug\AppleKinect.pdb
+D:\Skydrive\Microsoft\Events\Student Day 2012\Kinect\AppleKinect640\AppleKinect\bin\Debug\AppleKinect.exe.config
+D:\Skydrive\Microsoft\Events\Student Day 2012\Kinect\AppleKinect640\AppleKinect\obj\Debug\AppleKinect.exe
+D:\Skydrive\Microsoft\Events\Student Day 2012\Kinect\AppleKinect640\AppleKinect\obj\Debug\AppleKinect.pdb
+D:\Skydrive\Microsoft\Events\Student Day 2012\Kinect\AppleKinect640\AppleKinect\bin\Debug\AppleKinect.exe
+D:\Skydrive\Microsoft\Events\Student Day 2012\Kinect\AppleKinect640\AppleKinect\bin\Debug\AppleKinect.pdb
+D:\Skydrive\Microsoft\Events\Student Day 2012\Kinect\AppleKinect640\AppleKinect\obj\Debug\AppleKinect.csprojResolveAssemblyReference.cache
+D:\Skydrive\Microsoft\Events\Student Day 2012\Kinect\AppleKinect640\AppleKinect\obj\Debug\MainWindow.baml
+D:\Skydrive\Microsoft\Events\Student Day 2012\Kinect\AppleKinect640\AppleKinect\obj\Debug\MainWindow.g.cs
+D:\Skydrive\Microsoft\Events\Student Day 2012\Kinect\AppleKinect640\AppleKinect\obj\Debug\App.g.cs
+D:\Skydrive\Microsoft\Events\Student Day 2012\Kinect\AppleKinect640\AppleKinect\obj\Debug\AppleKinect_MarkupCompile.cache
+D:\Skydrive\Microsoft\Events\Student Day 2012\Kinect\AppleKinect640\AppleKinect\obj\Debug\AppleKinect.g.resources
+D:\Skydrive\Microsoft\Events\Student Day 2012\Kinect\AppleKinect640\AppleKinect\obj\Debug\AppleKinect.Properties.Resources.resources
+D:\Skydrive\Microsoft\Events\Student Day 2012\Kinect\AppleKinect640\AppleKinect\obj\Debug\AppleKinect.csproj.GenerateResource.Cache
+C:\Skydrive\Microsoft\Events\Student Day 2012\Kinect\AppleKinect640\AppleKinect\bin\Debug\AppleKinect.exe.config
+C:\Skydrive\Microsoft\Events\Student Day 2012\Kinect\AppleKinect640\AppleKinect\obj\Debug\AppleKinect.exe
+C:\Skydrive\Microsoft\Events\Student Day 2012\Kinect\AppleKinect640\AppleKinect\obj\Debug\AppleKinect.pdb
+C:\Skydrive\Microsoft\Events\Student Day 2012\Kinect\AppleKinect640\AppleKinect\obj\Debug\AppleKinect.csprojResolveAssemblyReference.cache
+C:\Skydrive\Microsoft\Events\Student Day 2012\Kinect\AppleKinect640\AppleKinect\obj\Debug\MainWindow.baml
+C:\Skydrive\Microsoft\Events\Student Day 2012\Kinect\AppleKinect640\AppleKinect\obj\Debug\MainWindow.g.cs
+C:\Skydrive\Microsoft\Events\Student Day 2012\Kinect\AppleKinect640\AppleKinect\obj\Debug\App.g.cs
+C:\Skydrive\Microsoft\Events\Student Day 2012\Kinect\AppleKinect640\AppleKinect\obj\Debug\AppleKinect_MarkupCompile.cache
+C:\Skydrive\Microsoft\Events\Student Day 2012\Kinect\AppleKinect640\AppleKinect\obj\Debug\AppleKinect.g.resources
+C:\Skydrive\Microsoft\Events\Student Day 2012\Kinect\AppleKinect640\AppleKinect\obj\Debug\AppleKinect.Properties.Resources.resources
+C:\Skydrive\Microsoft\Events\Student Day 2012\Kinect\AppleKinect640\AppleKinect\obj\Debug\AppleKinect.csproj.GenerateResource.Cache
+C:\Skydrive\Microsoft\Events\Student Day 2012\Kinect\AppleKinect640\AppleKinect\bin\Debug\AppleKinect.exe
+C:\Skydrive\Microsoft\Events\Student Day 2012\Kinect\AppleKinect640\AppleKinect\bin\Debug\AppleKinect.pdb
+C:\Microsoft\Apps\Kinect\AppleKinect640\AppleKinect\bin\Debug\AppleKinect.exe.config
+C:\Microsoft\Apps\Kinect\AppleKinect640\AppleKinect\obj\Debug\AppleKinect.exe
+C:\Microsoft\Apps\Kinect\AppleKinect640\AppleKinect\obj\Debug\AppleKinect.pdb
+C:\Microsoft\Apps\Kinect\AppleKinect640\AppleKinect\obj\Debug\AppleKinect.csprojResolveAssemblyReference.cache
+C:\Microsoft\Apps\Kinect\AppleKinect640\AppleKinect\obj\Debug\MainWindow.baml
+C:\Microsoft\Apps\Kinect\AppleKinect640\AppleKinect\obj\Debug\MainWindow.g.cs
+C:\Microsoft\Apps\Kinect\AppleKinect640\AppleKinect\obj\Debug\App.g.cs
+C:\Microsoft\Apps\Kinect\AppleKinect640\AppleKinect\obj\Debug\AppleKinect_MarkupCompile.cache
+C:\Microsoft\Apps\Kinect\AppleKinect640\AppleKinect\obj\Debug\AppleKinect.g.resources
+C:\Microsoft\Apps\Kinect\AppleKinect640\AppleKinect\obj\Debug\AppleKinect.Properties.Resources.resources
+C:\Microsoft\Apps\Kinect\AppleKinect640\AppleKinect\obj\Debug\AppleKinect.csproj.GenerateResource.Cache
+C:\Microsoft\Apps\Kinect\AppleKinect640\AppleKinect\bin\Debug\AppleKinect.exe
+C:\Microsoft\Apps\Kinect\AppleKinect640\AppleKinect\bin\Debug\AppleKinect.pdb
+C:\Users\jasta\Desktop\DartWaderHead\AppleKinect\bin\Debug\AppleKinect.exe.config
+C:\Users\jasta\Desktop\DartWaderHead\AppleKinect\obj\Debug\AppleKinect.exe
+C:\Users\jasta\Desktop\DartWaderHead\AppleKinect\obj\Debug\AppleKinect.pdb
+C:\Users\jasta\Desktop\DartWaderHead\AppleKinect\bin\Debug\AppleKinect.exe
+C:\Users\jasta\Desktop\DartWaderHead\AppleKinect\bin\Debug\AppleKinect.pdb
+C:\Users\jasta\Desktop\DartWaderHead\AppleKinect\bin\Debug\Microsoft.Kinect.dll
+C:\Users\jasta\Desktop\DartWaderHead\AppleKinect\bin\Debug\Microsoft.Kinect.xml
+C:\Users\jasta\Desktop\DartWaderHead\AppleKinect\obj\Debug\AppleKinect.csprojResolveAssemblyReference.cache
+C:\Users\jasta\Desktop\DartWaderHead\AppleKinect\obj\Debug\MainWindow.baml
+C:\Users\jasta\Desktop\DartWaderHead\AppleKinect\obj\Debug\MainWindow.g.cs
+C:\Users\jasta\Desktop\DartWaderHead\AppleKinect\obj\Debug\App.g.cs
+C:\Users\jasta\Desktop\DartWaderHead\AppleKinect\obj\Debug\AppleKinect_MarkupCompile.cache
+C:\Users\jasta\Desktop\DartWaderHead\AppleKinect\obj\Debug\AppleKinect.g.resources
+C:\Users\jasta\Desktop\DartWaderHead\AppleKinect\obj\Debug\AppleKinect.Properties.Resources.resources
+C:\Users\jasta\Desktop\DartWaderHead\AppleKinect\obj\Debug\AppleKinect.csproj.GenerateResource.Cache
