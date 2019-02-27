@@ -5,5 +5,3 @@ Realizovanna functions:
  - Click the right mouse button (Hold the left hand to the right shoulder)
 
 Successful experimentation.
-
-PS: The project will be constantly updated and new features will be added.
